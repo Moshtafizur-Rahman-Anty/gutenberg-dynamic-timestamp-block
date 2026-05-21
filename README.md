@@ -2,7 +2,7 @@
 
 > A custom Gutenberg block demonstrating React to PHP data flow and Dynamic Block architecture.
 
-[![Watch the Rebuild Video](https://img.shields.io/badge/YouTube-Watch_Architecture_Breakdown-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=EiOeRLA40KU)
+[![Watch My YouTube Video on this plugin](https://img.shields.io/badge/YouTube-Watch_How_I_Built_This-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=EiOeRLA40KU)
 
 ## Architectural Decisions
 
